@@ -1,0 +1,15 @@
+{
+  "build": {
+    "debug": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "development": {
+      "distribution": "internal"
+    },
+    "preview-aab": {
+      "distribution": "store"
+    },
+    "production": {}
+  }
+}
